@@ -89,3 +89,7 @@ Desktop.ini
 *.nbconvert.ipynb
 
 ds/
+traffic/gtsrb
+traffic/gtsrb_yolo
+*.pt
+runs/
